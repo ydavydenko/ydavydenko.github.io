@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuriy Davydenko</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Yuriy Davydenko</title>
@@ -80,9 +80,9 @@
     
     <item>
       <title>Policy Data Analysis</title>
-      <link>/teaching/data-analysis-4041-external/</link>
+      <link>/taught_courses/data-analysis-4041-external/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/teaching/data-analysis-4041-external/</guid>
+      <guid>/taught_courses/data-analysis-4041-external/</guid>
       <description></description>
     </item>
     
@@ -257,9 +257,9 @@ Crash --&amp;gt; [*]
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write math example&lt;/li&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write diagram example&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Do something else&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
 &lt;p&gt;Represent your data in tables:&lt;/p&gt;
@@ -461,6 +461,7 @@ Three
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
@@ -514,28 +515,10 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Intro to Policy Analysis</title>
-      <link>/teaching/policy-analysis-4061-internal/</link>
+      <link>/taught_courses/policy-analysis-4061-internal/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/teaching/policy-analysis-4061-internal/</guid>
+      <guid>/taught_courses/policy-analysis-4061-internal/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“U.S. Supreme Court Justice Potter Stewart famously commented in his concurring opinion in Jacobellis v. Ohio (1964) that it was unlikely he could ever intelligibly define hard-core pornography, “but I know it when I see it.” Public policy is like that; an intuitive concept that is maddeningly difficult to precisely define.“&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -615,7 +598,7 @@ Three
  and 
 &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;
 &lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
 &lt;ul&gt;
 &lt;li&gt;☕️ 
 &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;
@@ -779,9 +762,9 @@ Three
     
     <item>
       <title>Governmental Budgeting</title>
-      <link>/teaching/gov-budgeting-3831-internal/</link>
+      <link>/taught_courses/gov-budgeting-3831-internal/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/teaching/gov-budgeting-3831-internal/</guid>
+      <guid>/taught_courses/gov-budgeting-3831-internal/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;“Public budgeting, at its core, is democracy in action” —Lewis &amp;amp; Hildreth, 2013&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -875,23 +858,48 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
-      <title>Research</title>
+      <title>Research &amp; Analytics</title>
       <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/research/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;“Voters don’t want more government… But they don’t want less government either. They want better government and less expensive government.”  —Osborne, 1992&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“A fundamental rethinking is currently under way throughout the world regarding how to cope with public problems. … [G]overnments from the United States and Canada to Malaysia and New Zealand are being challenged to be reinvented, downsized, privatized, devolved, decentralized, deregulated, delayered, subjected to performance tests, and contracted out” —Salamon, 2002&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“Because every citizen is required to make countless important decisions, it may seem obvious that, as a society, we should be concerned with the way these decisions are made.” —Halpern, 2003&lt;/p&gt;
-&lt;/blockquote&gt;
+      <description>&lt;h2 id=&#34;social-science-research&#34;&gt;Social Science Research&lt;/h2&gt;
+&lt;p&gt;My current research agenda revolves around issues at the intersection of information, technology, behavior, and performance improvement across disciplines and sectors. 
+By drawing on theoretical frameworks from economics and social psychology and integrating modern research methods, I  study how various tools alleviate information asymmetry and how information can improve decision-making for better individual and organizational outcomes. As the economy and society become increasingly technology and information-dependent, those and other frameworks present fruitful avenues for research.&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;The perceptions of dissatisfaction with the performance of public-sector institutions and growing demand for better results from government activities have stimulated numerous public management reform efforts both in the U.S. and across the globe. The quest for “a government that works better, costs less” has brought many government reform strategies, such as reliance on third-party service delivery, market competition, internet technologies, and other promising forms of public action. The last few decades of scholarship and practice have especially seen a consistently increasing interest in such ideas as funding outcomes rather than inputs, accountability based on performance, decision architecture, and data/analytics-driven decision making.&lt;/p&gt;
-&lt;p&gt;As a public management and policy scholar, I draw my inspiration from those ideas to conduct cross-disciplinary research that broadly focuses on performance of public and private nonprofit institutions. In particular, I look to understand how information, measurement, and critical thinking can improve individual and organizations decision making, social outcomes, and democratic governance. In my dissertation research, for instance, I examine how performance report cards reduce information asymmetry between third-sector organizations and their funders and how they respond to the publicly available performance information.&lt;/p&gt;
+&lt;h2 id=&#34;applied-research-and-analytics&#34;&gt;Applied Research and Analytics&lt;/h2&gt;
+&lt;p&gt;Over the last ten years, I have provided expert technical support in many applied research projects at Georgia State University. 
+In my current role as a research assistant with the Center of Professional Excellence at Georgia State University, I provide technical assistance in designing and maintaining survey instruments and dynamic online reports to evaluate professional development and training programs in Georgia. 
+My past work with the Public Performance and Management Group focused on deploying and maintaining survey instruments, collecting data, conducting quantitative and qualitative data analyses, and developing reports in a series of customer satisfaction, workplace quality/employee satisfaction, and overall performance evaluation research projects with a broad range of customers.&lt;/p&gt;
+&lt;p&gt;The following are some of the projects where I provided expert technical assistance:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Assessing employee engagement and satisfaction in Georgia Division of Family and Children Services (DFCS) in 2016. The project measured employee perceptions of the workplace, satisfaction, engagement, and commitment to customer service.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A project with the State Road and Tollway Authority assessing customer satisfaction with the I-85 express lanes, Peach Pass account management, and Peach Pass customer service. The project was conducted in 2012 and again in 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A project with the State Road and Tollway Authority gathering feedback from employees about their perceptions of the quality of their workplace and overall satisfaction. The project was conducted in 2013 and 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A series of projects assessing customer satisfaction with the services offered by Georgia Department of Early Care and Learning (DECAL), which is responsible for meeting the childcare and early education needs of Georgia’s children and their families. The project work began in 2012 and continued into 2015.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A project assessing workplace satisfaction in a set of agencies in the State of Georgia. The participating agencies include Georgia Department of Revenue, Georgia Department of Corrections, and the Georgia Department of Early Care and Learning. This work continued from 2010 until 2014.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Research lead on a project evaluating the effectiveness of the S.T.A.R.T. (Services to Advance, Reach, and Teach Youth) program sponsored by Fulton County in 2010.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description></description>
     </item>
     
   </channel>
